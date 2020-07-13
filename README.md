@@ -68,7 +68,7 @@ We need to calculate the angle between the hands on a clock face. For example in
 1) How will you manage any infrastructure needed?
   ----Autobalancing and Scalability is taken care by GCP
 1) Delivered as a feature branch in the repo fork
-   ---feature_clk_assignment is created
+   ---kartikey_features_clk is created
 1) Bonus points for a working deployed solution in GCP or Azure that you can demo at the "sprint review" (ie interview)
    ---Because of account issue due to credit card validation not able to do in GCP
 1) Any DevOps/Cicd components that would support this feature in a production setting
